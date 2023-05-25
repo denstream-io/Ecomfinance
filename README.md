@@ -18,10 +18,22 @@ This is a web-based platform built using the Flask framework, which allows users
 # How to use? 
 
 ### Step1: Create an account
+  ![Alt text](ux/register-page.png)
+  
 ### Step2: Login
+  ![Alt text](ux/login-page.png)
+  
 ### Step3: Verify a stock price from IEX
+  ![Alt text](ux/quote-page.png)
+  
+  ![Alt text](ux/quoted-page.png)
+  
 ### Step4: Buy the stock
+  ![Alt text](ux/buy-page.png)
+  
 ### Step5: Check your history
+  ![Alt text](ux/history-page.png)
+  
 ### Step6: Sell your stock
 ### Step7: Check your history
 
