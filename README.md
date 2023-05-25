@@ -1,5 +1,5 @@
 # EcomFinance
-[![GitHub](https://img.shields.io/github/license/denstream-io/Ecomfinance)](/LICENSE.md)
+![GitHub](https://img.shields.io/github/license/denstream-io/Ecomfinance)
 
 A simple ecommerce Flask application
 
