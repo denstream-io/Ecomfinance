@@ -1,4 +1,6 @@
 # EcomFinance
+[![GitHub](https://img.shields.io/github/license/denstream-io/Ecomfinance)](/LICENSE.md)
+
 A simple ecommerce Flask application
 
 # Description
@@ -9,11 +11,17 @@ This is a web-based platform built using the Flask framework, which allows users
 
 ## On Windows
 ### step 1: Create a virtual enviroment
-  `$python -m venv /path/to/new/virtual/environment`
+  ```
+  python -m venv /path/to/new/virtual/environment
+  ```
 ### step 2: Install required dependencies
-  `$pip install -r requirements.txt`
+  ```
+  pip install -r requirements.txt
+  ```
 ### step 3: Run the application
-  `$python manage.py`
+  ```
+  python manage.py
+  ```
   
 # How to use? 
 
